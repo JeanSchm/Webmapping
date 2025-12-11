@@ -362,4 +362,5 @@ function showWelcomePopup() {
 
 function initChart() { updateChart(null); }
 
+
 document.addEventListener('DOMContentLoaded', loadData);
